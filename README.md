@@ -5,4 +5,4 @@ Branch has been introduced.
 
 Another change via local
 
-Introduced in local.
+Introduced in local, then in remote
